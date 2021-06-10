@@ -1,0 +1,28 @@
+{
+    "name": "Sweaty - Activity Tracker",
+    "short_name": "Sweaty",
+    "start_url": "/index.html",
+    "scope": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#3F51B5",
+    "description": "Keep running until you're sweaty",
+    "dir": "ltr",
+    "lang": "en-US",
+    "orientation": "portrait-primary",
+    "icon": [{
+        "src": "/src/images/icons/abc.png",
+        "type": "image/png",
+        "sizes": "48*48"
+    },
+    {
+        "src": "/src/images/icons/abcd.png",
+        "type": "image/png",
+        "sizes": "120*120"
+    }],
+    "related_application": [{
+        "platform": "play",
+        "url": "http://play.google.com/store/apps/details?id=com.exmple.app1",
+        "id": "com.example.app1"
+    }]
+}
